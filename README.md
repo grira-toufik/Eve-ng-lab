@@ -1,6 +1,8 @@
 # Eve-ng-lab
-Eve ng  lab running network configurations, users authentication and vpn access 
-This lab demonstrates a basic OSPF routing setup.
+Eve ng  lab running : 
+ -network configurations, users authentication and vpn access 
+ - This lab demonstrates a basic OSPF routing setup.
+ - Different Sophos security features (Acl Rules , Vlans)
 
 ### Requirements
 - EVE-NG Community Edition
